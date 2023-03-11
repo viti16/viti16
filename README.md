@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @viti16
 - 👨‍🔬 I am a researcher PhD candidate and work in quantum optics, laser-matter interaction etc.
 - 👀 I’m interested in how materials change when they are dressed by strong lasers
 - 📫 How to reach me viti1606@gmail.com
