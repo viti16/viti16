@@ -2,6 +2,6 @@
 - 👀 I’m interested in how materials change when they are dressed by strong lasers
 - 📫 How to reach me viti1606@gmail.com
 
-I upload here the codes i have used to solve quantum mechanics problems using numerical techniques.
-I am also learning deep learning and meachine learning so i also post projects that I work on.
+I upload codes here that I use to solve problems in quantum mechanics.
+I am also learning deep learning and meachine learning so I also post projects that I work on.
 Feel free to reach out to me.
