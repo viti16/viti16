@@ -1,4 +1,4 @@
-- 👨‍🔬 I am a researcher PhD candidate in University of Rochester and work in quantum optics, laser-matter interaction etc.
+- 👨‍🔬 I am a researcher PhD candidate in Franco group at University of Rochester and work in quantum optics, laser-matter interaction etc.
 - 👀 I’m interested in how materials change when they are dressed by strong lasers
 - 📫 How to reach me viti1606@gmail.com
 
